@@ -1,0 +1,25 @@
+body {
+	background-image: url('https://i.pinimg.com/736x/ea/78/11/ea7811f16fa403dd0a6f157fc61494d5.jpg');
+	background-repeat: no-repeat;
+	background-size: 1700px
+
+}
+h1 {
+
+color: darkblue;
+
+
+}
+
+p2, p3 {
+
+color: darkblue;
+
+}
+form
+ {
+     background-color: ghostwhite;
+      width: 30%;
+      border-radius: 20px;
+     
+  }
